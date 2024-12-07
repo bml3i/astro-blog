@@ -1,6 +1,6 @@
 # 🍥Fuwari
 
-A static blog template built with [Astro](https://astro.build).
+A static blog template built with [Astro](https://astro.build)...
 
 [**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
 [**📦 Old Hexo Version**](https://github.com/saicaca/hexo-theme-vivia)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
