@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/my-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Leo Bi',
-  bio: '非专业摄影师 , 资深吃货 , 美食烤茶团团长 , 酷丸实验室主任',
+  bio: '非专业摄影师 , 美食烤茶团团长 , 酷丸实验室主任',
   links: [
     {
       name: 'Zhihu',
