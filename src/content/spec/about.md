@@ -1,9 +1,9 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+## 关于作者
 
-::github{repo="saicaca/fuwari"}
+欢迎来到我的效能生活实验室！在这里我将定期与大家分享有格调的小众品牌，为大家推荐可以明显改善生活质量、提升幸福感的好东西，探讨如何使用效能工具来提高生产力。让我们一同探寻技术之道，提升生活品质，掌握效率工具，开启高效生活新篇章吧！
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+我目前从事酒店行业相关系统的开发和项目管理工作，对软件系统架构和互联网应用安全方面有着浓厚的兴趣。
+
+平常我喜欢旅行和美食。旅行可以使我见识各地的奇人异事，而美食可以让我静下来细品生活。
+
+![paraglider](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/leo-paraglider-small.jpg)
